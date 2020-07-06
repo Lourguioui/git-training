@@ -1,8 +1,10 @@
 Lourguioui Zohir 
 Ahmed amine Lekhal happy birthday to you 
 Ahmed amine Lekhal happy birthday 
-dev camp branche 2
 guithub
 Soh 
+<<<<<<< HEAD
 dev camp branche
 Wissal
+=======
+>>>>>>> parent of fd62861... dev camp
